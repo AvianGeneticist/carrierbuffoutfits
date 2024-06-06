@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<outfit name="Mass AI Mk. I">
+ <general>
+  <typename>Carrier Upgrade</typename>
+  <slot>utility</slot>
+  <size>large</size>
+  <rarity>1</rarity>
+  <license>Heavy Weapon</license>
+  <mass>0</mass>
+  <price>2100000</price>
+  <description>One of many optional upgrade chips to be installed on carriers. This chip removes certain quality control routines to amplify production to the most absurd level possible. The result is fighters with inferior weaponry and defenses, but greatly increased capacity and fabrication speed.</description>
+  <gfx_store>hive_combat_ai.webp</gfx_store>
+  <cpu>-200</cpu>
+ </general>
+ <specific type="modification">
+  <fbay_damage>-20</fbay_damage>
+  <fbay_health>-35</fbay_health>
+  <fbay_reload>60</fbay_reload>
+  <fbay_capacity>50</fbay_capacity>
+ </specific>
+</outfit>

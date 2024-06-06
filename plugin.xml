@@ -1,0 +1,7 @@
+<plugin name="Carrier Buff Outfits">
+ <author>Zoura3025</author>
+ <version>0.1</version>
+ <compatibility>^0\.12\..*</compatibility>
+ <description>Adds several utility outfits that enhance fighter bay performance.</description>
+ <source>https://naev.org</source>
+</plugin>

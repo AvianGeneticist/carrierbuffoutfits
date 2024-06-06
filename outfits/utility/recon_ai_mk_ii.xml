@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<outfit name="Recon AI Mk. II">
+ <general>
+  <typename>Carrier Upgrade</typename>
+  <slot>utility</slot>
+  <size>large</size>
+  <rarity>1</rarity>
+  <license>Heavy Weapon</license>
+  <mass>0</mass>
+  <price>2000000</price>
+  <description>One of many optional upgrade chips to be installed on carriers. This chip is designed to vastly improve the reconnaisance and hit-and-run capabilities of a light carrier's fighters or drones, by substantially improving their speed and handling while providing a modest boost to damage.</description>
+  <gfx_store>hive_combat_ai.webp</gfx_store>
+  <cpu>-150</cpu>
+ </general>
+ <specific type="modification">
+  <fbay_damage>20</fbay_damage>
+  <fbay_movement>65</fbay_movement>
+ </specific>
+</outfit>

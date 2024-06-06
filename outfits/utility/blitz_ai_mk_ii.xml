@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<outfit name="Blitz AI Mk. II">
+ <general>
+  <typename>Carrier Upgrade</typename>
+  <slot>utility</slot>
+  <size>large</size>
+  <rarity>1</rarity>
+  <license>Heavy Weapon</license>
+  <mass>0</mass>
+  <price>2100000</price>
+  <description>One of many optional upgrade chips to be installed on carriers. This chip optimizes fighter pathing and weaponry to encourage the rapid deployment of a heavy carrier's full complement. The deployment speed boost provided by a chip of this size and type empties its hangars in roughly half the time.</description>
+  <gfx_store>hive_combat_ai.webp</gfx_store>
+  <cpu>-180</cpu>
+ </general>
+ <specific type="modification">
+  <fbay_damage>40</fbay_damage>
+  <fbay_rate>105</fbay_rate>
+ </specific>
+</outfit>

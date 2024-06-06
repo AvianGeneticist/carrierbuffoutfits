@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<outfit name="Blitz AI Mk. I">
+ <general>
+  <typename>Carrier Upgrade</typename>
+  <slot>utility</slot>
+  <size>medium</size>
+  <rarity>1</rarity>
+  <license>Heavy Weapon</license>
+  <mass>0</mass>
+  <price>900000</price>
+  <description>One of many optional upgrade chips to be installed on carriers. This chip optimizes fighter pathing and weaponry to encourage the rapid deployment of a light carrier's full complement. It is popular among certain mercenary crowds, who use seemingly frail freighters as bait only to douse a pirate ambush with a sudden flurry of fighters.</description>
+  <gfx_store>hive_combat_ai.webp</gfx_store>
+  <cpu>-85</cpu>
+ </general>
+ <specific type="modification">
+  <fbay_damage>20</fbay_damage>
+  <fbay_rate>50</fbay_rate>
+ </specific>
+</outfit>

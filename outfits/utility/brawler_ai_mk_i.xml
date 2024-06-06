@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<outfit name="Brawler AI Mk. I">
+ <general>
+  <typename>Carrier Upgrade</typename>
+  <slot>utility</slot>
+  <size>medium</size>
+  <rarity>1</rarity>
+  <license>Heavy Weapon</license>
+  <mass>0</mass>
+  <price>950000</price>
+  <description>One of many optional upgrade chips to be installed on carriers. This chip is designed to give the fighters or drones of light carriers greater combat potential by upgrading their shields, armour, and weaponry. Unlike more popular AI modules, this chip requires a section of the carrier's computing power to operate its optimization protocols.</description>
+  <gfx_store>hive_combat_ai.webp</gfx_store>
+  <cpu>-60</cpu>
+ </general>
+ <specific type="modification">
+  <fbay_damage>15</fbay_damage>
+  <fbay_health>20</fbay_health>
+ </specific>
+</outfit>

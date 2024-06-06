@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<outfit name="Upgrade AI Mk. I">
+ <general>
+  <typename>Carrier Upgrade</typename>
+  <slot>utility</slot>
+  <size>large</size>
+  <rarity>1</rarity>
+  <license>Heavy Weapon</license>
+  <mass>0</mass>
+  <price>2250000</price>
+  <description>One of many optional upgrade chips to be installed on carriers. This chip provides an all-around bonus to the quality of fighters. The result is fighters with superior weaponry, durability, and even maneuverability. However, building improved fighters requires more time.</description>
+  <gfx_store>hive_combat_ai.webp</gfx_store>
+  <cpu>-190</cpu>
+ </general>
+ <specific type="modification">
+  <fbay_damage>30</fbay_damage>
+  <fbay_health>25</fbay_health>
+  <fbay_movement>35</fbay_movement>
+  <fbay_reload>-15</fbay_reload>
+ </specific>
+</outfit>
